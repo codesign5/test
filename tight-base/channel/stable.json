@@ -1,0 +1,12 @@
+{
+  "product": "tight-base-screener",
+  "channel": "stable",
+  "update_protocol": 1,
+  "version": "1.7.3",
+  "asset_name": "Tight-Base-Screener-WebApp-v1.7.3.zip",
+  "encoding": "base64-parts",
+  "part_count": 31,
+  "size": 92163,
+  "sha256": "325344c9c0862f5d0a33663ff51761e9702edfb15c43561b142f2366a88e70d2",
+  "notes": "Universal Mac/Linux stable update channel activation. Includes the v1.7.2 NSE IPO registry NameError hotfix; scanner scoring and thresholds are unchanged."
+}
